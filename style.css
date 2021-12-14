@@ -1,0 +1,74 @@
+body {
+    background-color: #393E46;
+    text-align: center;
+}
+
+
+h1#winners {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4ECCA3;
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+
+div#players {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.p1,
+.p2 {
+    color: #4ECCA3;
+    font-size: 2rem;
+}
+
+.img1, .img2{
+    margin: 2% 5%;
+}
+
+.refresh {
+    background-color: white;
+    padding: 20px;
+    cursor: pointer;
+    width: 100px;
+    margin:auto;
+}
+
+footer{
+    margin: 2%;
+}
+
+footer em{
+    color: white;
+}
+/* body {
+    background-color: #393E46;
+    text-align: center;
+}
+
+h1 {
+    color: #4ECCA3;
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+
+.p1, .p2 {
+    display: inline-block;
+    padding: 0 3.2%;
+    color: #4ECCA3;
+    font-size: 2rem;
+}
+
+img {
+    padding: 2% 3.2%;
+}
+
+footer {
+    margin: 2%;
+}
+
+footer em {
+    color: white;
+} */
